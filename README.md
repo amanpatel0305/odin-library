@@ -1,6 +1,6 @@
-# Odin Project #8: Library
+# Odin Project : Library
 
-Welcome to Bryan Miller's Library Project, the [eighth assignment](https://www.theodinproject.com/lessons/node-path-javascript-library) within the Odin Project curriculum. The goal of this repo is to practice the following skill sets:
+Welcome Library Project, The goal of this repo is to practice the following skill sets:
 
 - JavaScript
   - Object & Object Constructor Design Pattern
@@ -30,7 +30,6 @@ Note: Prototypal inheritance & the `Object.create()` method weren't necessary du
 ## Links
 
 - [Live Demo](https://bmilcs.github.io/odin-library/)
-- [My Odin Project Progress](https://github.com/bmilcs/odin-project)
 
 ## Screenshots
 
@@ -41,5 +40,5 @@ Note: Prototypal inheritance & the `Object.create()` method weren't necessary du
 ## Deployment
 
 ```sh
-git clone https://github.com/bmilcs/odin-library
+https://github.com/amanpatel0305/odin-library.git
 ```
