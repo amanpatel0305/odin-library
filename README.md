@@ -27,18 +27,3 @@ All in all, this was a great introduction to Object & Object Constructors as a d
 
 Note: Prototypal inheritance & the `Object.create()` method weren't necessary due to the scope of the project.
 
-## Links
-
-- [Live Demo](https://bmilcs.github.io/odin-library/)
-
-## Screenshots
-
-![Screenshot 1](images/screenshot.png)
-
-![Screenshot 2](images/screenshot2.png)
-
-## Deployment
-
-```sh
-https://github.com/amanpatel0305/odin-library.git
-```
